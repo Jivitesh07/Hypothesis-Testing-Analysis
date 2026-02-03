@@ -1,0 +1,13 @@
+Final Recommendation – A/B Testing
+
+Objective:
+The goal of this A/B test was to determine whether the Test version performs better than the Control version in terms of conversion rate.
+
+Summary of Analysis:
+- The conversion rate of the Test group is higher than that of the Control group.
+- A two-sample t-test was conducted to compare the mean conversion rates.
+- The p-value obtained from the test is less than the significance level (α = 0.05).
+
+Statistical Conclusion:
+Since the p-value is below 0.05, we reject the null hypothesis.
+This indicates that the difference in conversion rates between the Control and Test groups is statistically significant.
